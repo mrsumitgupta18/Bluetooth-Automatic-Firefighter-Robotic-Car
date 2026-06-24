@@ -24,6 +24,21 @@ A smart firefighting robot capable of detecting and extinguishing fire automatic
 - Bluetooth Communication
 - Circuit Design & Soldering
 
+## Project Images
+
+### Front View
+![Front View](Front image of PRoject.jpg)
+
+### Circuit Diagram
+![Circuit Diagram](circuit diagram.jpg)
+
+### Project Prototype
+![Project Prototype](image of project.jpg)
+
+## Project Video
+Project demo video uploaded in this repository: ProjectVideo.mp4
+
 ## Author
 Sumit Gupta
 B.Tech (Electronics & Communication Engineering)
+
